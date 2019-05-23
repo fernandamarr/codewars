@@ -2,4 +2,4 @@
 
 ### My solutions to codewars katas 💥 
 
-[My profile](https://www.codewars.com/users/fernandaa)
+👉🏾 [Check out my profile](https://www.codewars.com/users/fernandaa) 
