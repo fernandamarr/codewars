@@ -1,3 +1,3 @@
-# Codewars 👩🏽‍💻
+# Codewars 👩🏽‍💻 
 
-My solutions to codewars katas 
+My solutions to codewars katas 💥
