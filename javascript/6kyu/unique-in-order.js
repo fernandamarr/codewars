@@ -19,5 +19,3 @@ var uniqueInOrder=function(iterable){
   }
   return diffValue;
 }
-
-uniqueInOrder('ABBCcAD')
