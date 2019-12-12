@@ -4,6 +4,6 @@
 
 // You should not remove or add elements from/to the array.
 
-twoSort = (s) => {
+twoSort = s => {
   return s.sort()[0].split("").join("***")
 }
